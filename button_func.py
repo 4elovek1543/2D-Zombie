@@ -8,5 +8,5 @@ def start_func(args=None):
 
 
 def menu_call(args=None):
-    
+    args.proces()
     return args
